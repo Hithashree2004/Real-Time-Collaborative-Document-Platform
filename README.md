@@ -61,12 +61,19 @@ The project will run with live reloading enabled.
 
 📂 Project Structure (Example)
 src/
+
 │── components/
+
 │── pages/
+
 │── hooks/
+
 │── utils/
+
 │── App.tsx
+
 │── main.tsx
+
 
 📈 Future Improvements
 
